@@ -1,0 +1,5 @@
+{
+  "name": "SHANTO AI",
+  "description": "An elite, production-grade AI Image Generation SaaS platform built with React and Gemini. Features user and admin roles, a credit-based system, and in-browser session state management.",
+  "requestFramePermissions": []
+}
